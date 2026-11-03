@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix NovelCreator Studio",
+  "description": "基于 leenbj/novel-creator-skill 架构的 AI 长篇小说创作系统，搭载 Smart State 文件级长期记忆矩阵、角色与世界观工坊、卷章节拍纲目与防吃设定伏笔追踪。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
